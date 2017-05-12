@@ -55,8 +55,8 @@ class AdminCategoryController extends \BaseController {
 	 */
 	public function edit($id)
 	{
-		return View::make('admin.category.edit');
-		exit();	
+		
+			
 	}
 
 
